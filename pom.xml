@@ -29,5 +29,5 @@
         <name>Snapshots</name>
         <url>http://13.59.155.47:8888/nexus-latest/content/repositories/snapshots/</url>
     </snapshotRepository>
-     <distributionManagement>  
+     </distributionManagement>  
 </project>
