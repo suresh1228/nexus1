@@ -29,12 +29,12 @@
   <distributionManagement>
     <repository>
         <id>test</id>
-        <name>Releases</name>
+        
         <url>http://35.161.220.53:8080/nexus-latest/content/repositories/releases/</url>
     </repository>
      <snapshotRepository>
         <id>test</id>
-        <name>Snapshots</name>
+        
         <url>http://35.161.220.53:8080/nexus-latest/content/repositories/snapshots/</url>
     </snapshotRepository>
      </distributionManagement>  
